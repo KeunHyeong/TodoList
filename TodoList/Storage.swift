@@ -2,8 +2,8 @@
 //  Storage.swift
 //  storeJSON
 //
-//  Created by joonwon lee on 2020/03/17.
-//  Copyright © 2020 com.joonwon. All rights reserved.
+//  Created by KeunHyeong 2020/10/15.
+//  Copyright © 2020 com.KeunHyeong. All rights reserved.
 //
 
 import Foundation
